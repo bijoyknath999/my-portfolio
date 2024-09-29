@@ -162,11 +162,6 @@ const SalimovHead = ()=>{
                 rel: "stylesheet"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("link", {
-                rel: "icon",
-                href: "assets/favicon.png",
-                type: "image/x-icon"
-            }),
-            /*#__PURE__*/ jsx_runtime_.jsx("link", {
                 rel: "stylesheet",
                 href: "css/devicon.min.css"
             }),
