@@ -139,7 +139,7 @@ const SalimovHead = ()=>{
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)((head_default()), {
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx("title", {
-                children: "Salimov - Horizontal Personal Portfolio"
+                children: "Bijoy - Mobile App Developer"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 charSet: "utf-8"
@@ -160,6 +160,11 @@ const SalimovHead = ()=>{
             /*#__PURE__*/ jsx_runtime_.jsx("link", {
                 href: "https://fonts.googleapis.com/css2?family=Livvic:wght@100;200;300;400;500;600;700&family=Oswald:wght@400;500;600;700&display=swap",
                 rel: "stylesheet"
+            }),
+            /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                rel: "icon",
+                href: "assets/favicon.png",
+                type: "image/x-icon"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("link", {
                 rel: "stylesheet",
